@@ -1,2 +1,9 @@
-<h1> Blue Lightsaber </h1>
-<img
+<h1> Blue Lightsaber: </h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3HS8cXn5vCt0fjW0ZsHWaW6POoPeD-hkeQ&usqp=CAU"== width="300" height="150" alt="bruh">
+<p>
+The blue lightsaber signifies justice, truth, and serenity. When it comes to the Jedi Order, blue is the most common. This color was used by the likes of Obi-Wan Kenobi, Anakin Skywalker, and even Luke Skywalker...that is before he lost it with his hand.
+</p>
+<style> 
+h1 {font-size:36px; color: darkblue; text-decoration: underline}
+p { font-size:24x; color: black;}
+</style>
